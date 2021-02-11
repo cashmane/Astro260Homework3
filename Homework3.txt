@@ -1,0 +1,10 @@
+Problem 2, Question 3. 
+The analytic derivative does match the computational derivative fairly closely for me. 
+I gather from next question (about cleaning up the data to get a more reasonable 
+agreement) that they should not have matched so closely, so I probably did something 
+wrong.
+
+Also, I had an issue that I could not figure out in part 2 of problem 1, so I was 
+unable to finish that part. The values of error for both the forward and central 
+difference method were exactly the same for all values of h. I could not figure out why
+this happened, and Jess wasn't able to see any reason either. 
